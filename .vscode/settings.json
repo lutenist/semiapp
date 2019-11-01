@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\luten\\Anaconda3\\envs\\semiapp\\python.exe"
+    "python.pythonPath": "C:\\Users\\luten\\Anaconda3\\envs\\semiapp\\python.exe",
+    "python.formatting.provider": "black"
 }
